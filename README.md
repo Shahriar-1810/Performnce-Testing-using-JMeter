@@ -8,6 +8,7 @@ This document shows performance tests on 5 frequently used APIs of a demo websit
 
 # Load Testing
 Load testing with 800 concurrent user with 10 second of ramp up time.
+
 The total error rate is 0.64% and the total throughput is 249/sec.
 <p align="center">
   <img src="https://github.com/Shahriar-1810/Performnce-Testing-using-JMeter/blob/main/Load%20Testing.png" />
@@ -15,6 +16,7 @@ The total error rate is 0.64% and the total throughput is 249/sec.
 
 # Stress Testing
 Stress testing with 850 concurrent user with 10 second of ramp up time.
+
 The total error rate is 2.42% and the total throughput is 257/sec.
 <p align="center">
   <img src="https://github.com/Shahriar-1810/Performnce-Testing-using-JMeter/blob/main/Stress%20Testing.png" />
